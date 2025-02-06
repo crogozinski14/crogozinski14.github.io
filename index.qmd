@@ -1,5 +1,8 @@
 ---
-title: "crogozinski14.github.io"
+title: "Chloe's Website"
+image: 
+about: 
+ template: 
 ---
 
 This is a Quarto website.
