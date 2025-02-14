@@ -2,15 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "crogozinski14.github.io",
+    "title": "Chloe’s Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "My name is Chloe Rogozinski and I am a Senior studying Ecosystem Science and Sustainability at Colorado State University.\nI am an emerging ecologist with a passion for aquatic ecosystem health. Specifically my interest is how inland water quality impacts river and marine systems."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I am a dedicated professional completing my degree in Ecosystem Science and Sustainability at Colorado State University, with a strong passion for marine ecology. I am certified in coral restoration and have accumulated several hours of hands-on restoration experience. My entrepreneurial work focuses on the interconnectedness of inland and marine ecosystems, with a particular emphasis on raising awareness of how water quality impacts both environments. Since most marine pollutants originate from inland sources, I am committed to promoting sustainable practices that protect water resources and, in turn, marine ecosystems. Through practical and research-based approaches, I aim to advance our understanding and conservation of these vital environments.\n\nCertifications:\nArcGIS Pro Basics - Esri - Issued January 2025\nRMP Coral Restoration Certification - Roatan Marine Park - Issues June 2023\nCommunicating the Value of Biodiversity - UNDP - Issues January 2023\nSMS for Executives - AvMaSSI - Issued August 2021"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Personal Website & Portfolio\nThis Quarto-based website serves as my personal portfolio, blog, and learning space for web development and data science. Built with Quarto, it is deployed on GitHub Pages and customized using YAML and SCSS.\n\n\nOther Projects\nThrough the class ESS 330 - Quantitative Reasoning for Ecosystem Science at CSU, I have completed several projects including a few GitHub repositories which can be viewed on my GitHub site linked below.\nView GitHub Projects: https://github.com/crogozinski14\n\n\nNon-point Source Pollution Education\nThrough my business, Reef Healers, we have launched a project to educate communities on the impacts that inland communities have on ocean health through our connected water - mainly focusing on pollution such as non-point source pollution. We do this through online education, infographics, and hosting local clean-up events."
   }
 ]

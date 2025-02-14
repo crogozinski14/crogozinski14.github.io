@@ -2,8 +2,16 @@
 title: "About"
 ---
 
-About this site
+I am a dedicated professional completing my degree in Ecosystem Science and Sustainability at Colorado State University, with a strong passion for marine ecology. I am certified in coral restoration and have accumulated several hours of hands-on restoration experience. My entrepreneurial work focuses on the interconnectedness of inland and marine ecosystems, with a particular emphasis on raising awareness of how water quality impacts both environments. Since most marine pollutants originate from inland sources, I am committed to promoting sustainable practices that protect water resources and, in turn, marine ecosystems. Through practical and research-based approaches, I aim to advance our understanding and conservation of these vital environments.
 
-```{r}
-1 + 1
-```
+#### Certifications:
+
+ArcGIS Pro Basics - Esri - Issued January 2025
+
+RMP Coral Restoration Certification - Roatan Marine Park - Issues June 2023
+
+Communicating the Value of Biodiversity - UNDP - Issues January 2023
+
+SMS for Executives - AvMaSSI - Issued August 2021
+
+![](images/IMG_0251_Original.jpg){fig-align="center"}

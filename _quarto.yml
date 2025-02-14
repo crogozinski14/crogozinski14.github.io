@@ -3,20 +3,28 @@ project:
   output-dir: docs
 
 website:
-  title: "crogozinski14.github.io"
+  title: "Chloe Rogozinski"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - Resume/CV.qmd
-      - Projects.qmd
+      - href: about.qmd
+        text: About
+      - href: Resume-CV.qmd
+        text: Resume
+      - href: projects.qmd
+        text: Projects
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    mainfont: arial
+    fontcolor: '#142489'
+    linkcolor: '#146871'
+    theme: sandstone
+    css: styles.scss
     toc: true
+    toc-location: right
+    
 
 editor: visual
 

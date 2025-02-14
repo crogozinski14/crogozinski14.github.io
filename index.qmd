@@ -1,14 +1,15 @@
 ---
 title: "Chloe's Website"
-image: 
-about: 
- template: 
 ---
 
-This is a Quarto website.
+My name is Chloe Rogozinski and I am a Senior studying Ecosystem Science and Sustainability at Colorado State University.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am an emerging ecologist with a passion for aquatic ecosystem health. Specifically my interest is how inland water quality impacts river and marine systems.
 
-```{r}
-1 + 1
-```
+#### Contact Information
+
+email: crogo\@colostate.edu
+
+Linked In: <https://www.linkedin.com/in/chloerogozinski>
+
+## ![](images/clipboard-1334849287.jpeg)
