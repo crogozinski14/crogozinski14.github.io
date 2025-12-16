@@ -2,20 +2,33 @@
 title: "Projects"
 ---
 
-#### Personal Website & Portfolio
+### Personal Website & Portfolio
 
 This Quarto-based website serves as my personal portfolio, blog, and learning space for web development and data science. Built with Quarto, it is deployed on GitHub Pages and customized using YAML and SCSS.
 
-#### Other Projects
+### Other Projects
 
-Through the class ESS 330 - Quantitative Reasoning for Ecosystem Science at CSU, I have completed several projects including a few GitHub repositories which can be viewed on my GitHub site linked below.
+Through the class ESS 523A - Environmental Data Science Applications for Ecosystem Science at CSU, I have completed several projects, including a few GitHub repositories which can be viewed on my GitHub site linked below.
 
 View GitHub Projects: <https://github.com/crogozinski14>
 
-#### Non-point Source Pollution Education
+**\
+Land Use Regulations on Sensitive Habitats (e.g., barrens) in ColoradoLand Use Regulations on Sensitive Habitats (e.g., barrens) in Colorado**
 
-Through my business, Reef Healers, we have launched a project to educate communities on the impacts that inland communities have on ocean health through our connected water - mainly focusing on pollution such as non-point source pollution. We do this through online education, infographics, and hosting local clean-up events.
+Jan 2025 - May 2025
+
+The Colorado Natural Heritage Program (CNHP) monitors the state’s rare and imperiled species and habitats to promote the conservation of Colorado's valuable biological resources. Our research group had been tasked with developing a classification workflow for barrens to aid in the protection of these vulnerable ecosystems. With pressure from oil and gas industry expansion, it is pertinent that the 2025 State Wildlife Action Plan (SWAP) includes a clear definition and identification method to ensure uniform understanding across the board in terms of ineligible land for drilling and fracking. With help from CNHP’s existing data and other researched layers, a replicable model for identifying barrens has been initialized to strengthen protection efforts and guide conservation priorities.
+
+![](images/clipboard-2445210838.png)
+
+Model trial for Alamosa County, CO
+
+### Non-point Source Pollution Education
+
+Through my business, Reef Healers, we have launched a project to educate communities on the impacts that inland communities have on ocean health through our connected water, with a primary focus on non-point source pollution. We do this through online education, infographics, and hosting local clean-up events.
 
 ![](images/8F824CAD-386E-497C-8A6D-19299D1A930B.JPG)
+
+![](images/F9EFEA30-93F9-4DA7-9D81-7442A504C674.JPG)
 
 ![](images/5B3629FB-24B3-4CD1-9A52-60B17BED439E.PNG)

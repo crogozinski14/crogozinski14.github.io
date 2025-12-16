@@ -18,8 +18,8 @@ website:
 format:
   html:
     mainfont: arial
-    fontcolor: '#142489'
-    linkcolor: '#146871'
+    fontcolor: '#0b2239'
+    linkcolor: '#142489'
     theme: sandstone
     css: styles.scss
     toc: true

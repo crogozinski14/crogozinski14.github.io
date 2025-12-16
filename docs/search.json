@@ -2,22 +2,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Chloe’s Website",
+    "title": "Chloe Rogozinski",
     "section": "",
-    "text": "My name is Chloe Rogozinski and I am a Senior studying Ecosystem Science and Sustainability at Colorado State University.\nI am an emerging ecologist with a passion for aquatic ecosystem health. Specifically my interest is how inland water quality impacts river and marine systems."
+    "text": "I’m a Master’s student in Ecosystem Science and Sustainability at Colorado State University, specializing in Water Resources, and the Co-founder and CEO of Reef Healers, where I lead conservation, education, and community engagement that connects inland water stewardship to ocean and coral reef health."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am a dedicated professional completing my degree in Ecosystem Science and Sustainability at Colorado State University, with a strong passion for marine ecology. I am certified in coral restoration and have accumulated several hours of hands-on restoration experience. My entrepreneurial work focuses on the interconnectedness of inland and marine ecosystems, with a particular emphasis on raising awareness of how water quality impacts both environments. Since most marine pollutants originate from inland sources, I am committed to promoting sustainable practices that protect water resources and, in turn, marine ecosystems. Through practical and research-based approaches, I aim to advance our understanding and conservation of these vital environments.\n\nCertifications:\nArcGIS Pro Basics - Esri - Issued January 2025\nRMP Coral Restoration Certification - Roatan Marine Park - Issues June 2023\nCommunicating the Value of Biodiversity - UNDP - Issues January 2023\nSMS for Executives - AvMaSSI - Issued August 2021"
+    "text": "I am a Master’s student in Ecosystem Science and Sustainability at Colorado State University, specializing in Water Resources. As the Co-founder and CEO of Reef Healers, I lead conservation, education, and community engagement initiatives that connect inland water action to ocean health.\n\nMy work focuses on the deep connection between water quality, river systems, and coral reef resilience. I am certified in coral restoration and am scuba certified, bringing hands-on restoration experience into my broader mission of protecting ecosystems from mountains to reefs.\n\nI founded Reef Healers to empower inland communities to understand their influence on marine environments and to take meaningful action. Through science-based communication, outreach, and innovation, I aim to build a movement that strengthens water stewardship, supports community resilience, and protects ecosystems across entire watersheds.\n\nEducation:\nAccelerated Professional Science Masters - AMP PSM, Ecosystem Science and Sustainability - Colorado State University - Aug 2025 - Dec 2026\nBachelor of Science - BS, Ecosystem Science and Sustainability - Colorado State University - Aug 2023 - Dec 2025\n\n\nCertifications:\nHuman Research - Group 2. SOCIAL / HUMANISTIC / BEHAVIORAL RESEARCH - CITI Program - Issued Feb 2025\nBasics of Geographic Coordinate Systems - Esri - Issued Feb 2025\nArcGIS Pro Basics - Esri - Issued January 2025\nRMP Coral Restoration Certification - Roatan Marine Park - Issues June 2023\nCommunicating the Value of Biodiversity - UNDP - Issues January 2023\nSMS for Executives - AvMaSSI - Issued August 2021"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Personal Website & Portfolio\nThis Quarto-based website serves as my personal portfolio, blog, and learning space for web development and data science. Built with Quarto, it is deployed on GitHub Pages and customized using YAML and SCSS.\n\n\nOther Projects\nThrough the class ESS 330 - Quantitative Reasoning for Ecosystem Science at CSU, I have completed several projects including a few GitHub repositories which can be viewed on my GitHub site linked below.\nView GitHub Projects: https://github.com/crogozinski14\n\n\nNon-point Source Pollution Education\nThrough my business, Reef Healers, we have launched a project to educate communities on the impacts that inland communities have on ocean health through our connected water - mainly focusing on pollution such as non-point source pollution. We do this through online education, infographics, and hosting local clean-up events."
+    "text": "Personal Website & Portfolio\nThis Quarto-based website serves as my personal portfolio, blog, and learning space for web development and data science. Built with Quarto, it is deployed on GitHub Pages and customized using YAML and SCSS.\n\n\nOther Projects\nThrough the class ESS 523A - Environmental Data Science Applications for Ecosystem Science at CSU, I have completed several projects, including a few GitHub repositories which can be viewed on my GitHub site linked below.\nView GitHub Projects: https://github.com/crogozinski14\n\nLand Use Regulations on Sensitive Habitats (e.g., barrens) in ColoradoLand Use Regulations on Sensitive Habitats (e.g., barrens) in Colorado\nJan 2025 - May 2025\nThe Colorado Natural Heritage Program (CNHP) monitors the state’s rare and imperiled species and habitats to promote the conservation of Colorado’s valuable biological resources. Our research group had been tasked with developing a classification workflow for barrens to aid in the protection of these vulnerable ecosystems. With pressure from oil and gas industry expansion, it is pertinent that the 2025 State Wildlife Action Plan (SWAP) includes a clear definition and identification method to ensure uniform understanding across the board in terms of ineligible land for drilling and fracking. With help from CNHP’s existing data and other researched layers, a replicable model for identifying barrens has been initialized to strengthen protection efforts and guide conservation priorities.\n\nModel trial for Alamosa County, CO\n\n\nNon-point Source Pollution Education\nThrough my business, Reef Healers, we have launched a project to educate communities on the impacts that inland communities have on ocean health through our connected water, with a primary focus on non-point source pollution. We do this through online education, infographics, and hosting local clean-up events."
+  },
+  {
+    "objectID": "Resume-CV.html",
+    "href": "Resume-CV.html",
+    "title": "Resume/CV",
+    "section": "",
+    "text": "Resume"
   }
 ]

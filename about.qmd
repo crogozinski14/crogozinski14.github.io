@@ -2,9 +2,23 @@
 title: "About"
 ---
 
-I am a dedicated professional completing my degree in Ecosystem Science and Sustainability at Colorado State University, with a strong passion for marine ecology. I am certified in coral restoration and have accumulated several hours of hands-on restoration experience. My entrepreneurial work focuses on the interconnectedness of inland and marine ecosystems, with a particular emphasis on raising awareness of how water quality impacts both environments. Since most marine pollutants originate from inland sources, I am committed to promoting sustainable practices that protect water resources and, in turn, marine ecosystems. Through practical and research-based approaches, I aim to advance our understanding and conservation of these vital environments.
+I am a Master’s student in Ecosystem Science and Sustainability at Colorado State University, specializing in Water Resources. As the Co-founder and CEO of Reef Healers, I lead conservation, education, and community engagement initiatives that connect inland water action to ocean health.\
+\
+My work focuses on the deep connection between water quality, river systems, and coral reef resilience. I am certified in coral restoration and am scuba certified, bringing hands-on restoration experience into my broader mission of protecting ecosystems from mountains to reefs.\
+\
+I founded Reef Healers to empower inland communities to understand their influence on marine environments and to take meaningful action. Through science-based communication, outreach, and innovation, I aim to build a movement that strengthens water stewardship, supports community resilience, and protects ecosystems across entire watersheds.
 
-#### Certifications:
+### Education:
+
+Accelerated Professional Science Masters - AMP PSM, Ecosystem Science and Sustainability - *Colorado State University* - **Aug 2025 - Dec 2026**
+
+Bachelor of Science - BS, Ecosystem Science and Sustainability - *Colorado State University* - **Aug 2023 - Dec 2025**
+
+### Certifications:
+
+Human Research - Group 2. SOCIAL / HUMANISTIC / BEHAVIORAL RESEARCH - CITI Program - Issued Feb 2025
+
+Basics of Geographic Coordinate Systems - Esri - Issued Feb 2025
 
 ArcGIS Pro Basics - Esri - Issued January 2025
 
@@ -14,4 +28,4 @@ Communicating the Value of Biodiversity - UNDP - Issues January 2023
 
 SMS for Executives - AvMaSSI - Issued August 2021
 
-![](images/IMG_0251_Original.jpg){fig-align="center"}
+![](images/clipboard-1952610719.jpeg)

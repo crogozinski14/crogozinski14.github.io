@@ -1,15 +1,13 @@
 ---
-title: "Chloe's Website"
+title: "Chloe Rogozinski"
 ---
 
-My name is Chloe Rogozinski and I am a Senior studying Ecosystem Science and Sustainability at Colorado State University.
+I’m a Master’s student in Ecosystem Science and Sustainability at Colorado State University, specializing in Water Resources, and the Co-founder and CEO of Reef Healers, where I lead conservation, education, and community engagement that connects inland water stewardship to ocean and coral reef health.
 
-I am an emerging ecologist with a passion for aquatic ecosystem health. Specifically my interest is how inland water quality impacts river and marine systems.
+### Contact Information
 
-#### Contact Information
+**email:** crogo\@colostate.edu
 
-email: crogo\@colostate.edu
+**Linked In:** <https://www.linkedin.com/in/chloerogozinski>
 
-Linked In: <https://www.linkedin.com/in/chloerogozinski>
-
-## ![](images/clipboard-1334849287.jpeg)
+## ![](images/IMG_1247.JPG)
